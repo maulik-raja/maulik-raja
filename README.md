@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Maulik Raja<br><br>🔭 I’m currently working in Python and Django Framework<br><br>🌱 I’m currently learning IOS Development and Data Analytics<br><br>💬 Ask me about Core Python and Django<br><br>⚡ I'm very Passinate About Coding and Software Development
+Hi, I'm Maulik Raja<br><br>🔭 I’m currently working in Python and Django Framework<br><br>🌱 I’m currently learning IOS Development, Data Analytics and Data Science<br><br>💬 Ask me about Core Python and Django<br><br>⚡ I'm very Passinate About Coding and Software Development
 
 [![](https://visitcount.itsvg.in/api?id=maulik-raja&icon=2&color=4)](https://visitcount.itsvg.in)
 
